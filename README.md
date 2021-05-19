@@ -1,2 +1,1 @@
-# Game777
-Game
+# CP-2
